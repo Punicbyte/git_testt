@@ -1,2 +1,2 @@
 # git_testt
-for windows not for virtual machine
+Not odin at all but cs50
